@@ -55,3 +55,4 @@ for (let index = 0; index <= lastIndex; index += 1) {
 }
 console.log(arrayOfNumbers[index])
 
+//ahhhh
