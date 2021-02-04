@@ -54,7 +54,7 @@ for (let index = 0; index <= lastIndex; index += 1) {
     console.log(arrayOfNumbers[index])
 }
 console.log(arrayOfNumbers[index])
-
+console.log(arrayOfNumbers[index])
 //ahhhh uuhhhh
 let example = "Example"
 console.log(`Its a string with a value:${example}`)
